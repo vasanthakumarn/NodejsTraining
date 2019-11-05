@@ -1,0 +1,22 @@
+_http_outgoing.js:595
+    throw new ERR_INVALID_ARG_TYPE('first argument',
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer. Received type undefined
+    at write_ (_http_outgoing.js:595:11)
+    at ServerResponse.write (_http_outgoing.js:567:10)
+    at Server.http.createServer (D:\NodeJS\Session2\5_rest.js:29:17)
+    at Server.emit (events.js:198:13)
+    at parserOnIncoming (_http_server.js:677:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+_http_outgoing.js:595
+    throw new ERR_INVALID_ARG_TYPE('first argument',
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string or Buffer. Received type undefined
+    at write_ (_http_outgoing.js:595:11)
+    at ServerResponse.write (_http_outgoing.js:567:10)
+    at Server.http.createServer (D:\NodeJS\Session2\5_rest.js:29:17)
+    at Server.emit (events.js:198:13)
+    at parserOnIncoming (_http_server.js:677:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)

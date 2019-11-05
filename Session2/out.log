@@ -1,0 +1,20 @@
+Server is listening in Port  8030
+/updatepost/2
+{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/updatepost/2","path":"/updatepost/2","href":"/updatepost/2"}
+[ { id: 1, title: 'Post 1', descriptions: 'First Post' },
+  { id: 2,
+    title: 'Post 7=2 - Updated',
+    descriptions: '7=2 - updatedd' },
+  { id: 3, title: 'Post 3', descriptions: 'Third Post' },
+  { id: 4, title: 'Post 4', descriptions: 'Fourth Post' } ]
+Server is listening in Port  8030
+/
+{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+
+Server is listening in Port  8030
+/
+{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/","path":"/","href":"/"}
+
+Server is listening in Port  8030
+/listposts
+{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":null,"query":{},"pathname":"/listposts","path":"/listposts","href":"/listposts"}
